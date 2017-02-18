@@ -20,7 +20,7 @@
             android:layout_centerHorizontal="true"
             android:layout_above="@+id/one_player"
             android:textSize="40dp"
-            android:text="Select your game:"/>
+            android:text="Select Your Game:"/>
 
         <Button
             android:id="@+id/one_player"
